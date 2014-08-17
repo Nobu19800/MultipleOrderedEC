@@ -2,7 +2,7 @@
 #define COMPSEARCH_H
 
 #include <stdio.h>
-#include <tchar.h>
+
 
 #include <iostream>
 #include <rtm/CorbaNaming.h>

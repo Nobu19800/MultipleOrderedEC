@@ -41,7 +41,7 @@ class Rule
 private:
     
 public:
-	std::vector<std::vector<sub_Rule>> SR;
+	std::vector<std::vector<sub_Rule> > SR;
 	Rule(){};
 	~Rule(){};
 	void addP();
